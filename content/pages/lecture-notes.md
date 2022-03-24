@@ -234,7 +234,7 @@ Parallelization
 Memory optimization
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5MB]({{< baseurl >}}/resources/mit6_035s10_lec18))
+([PDF - 2.5MB]({{< baseurl >}}/resources/mit6_035s10_lec18))
 {{< tdclose >}}
 
 {{< trclose >}}
