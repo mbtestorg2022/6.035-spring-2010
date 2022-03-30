@@ -4,7 +4,7 @@ title: Lecture Notes
 uid: 42921819-1731-ab9f-1387-c082c0b66eb6
 ---
 
-This section contains selected lecture notes.  Audio and video lectures from a previous semester can be found in the 6.035 Fall 2005 [Lecture Notes](/courses/6-035-computer-language-engineering-sma-5502-fall-2005/pages/lecture-notes) section.
+This section contains selected lecture notes.  Audio and video lectures from a previous semester can be found in the 6.035 Fall 2005 [Lecture Notes](/courses/6-035-computer-language-engineering-sma-5502-fall-2005/video_galleries/lecture-notes) section.
 
 {{< tableopen >}}
 {{< theadopen >}}
